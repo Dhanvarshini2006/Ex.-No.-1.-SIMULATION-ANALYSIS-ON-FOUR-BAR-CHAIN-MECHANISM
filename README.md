@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
+ko# Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
 ## DATE: 
 
@@ -55,7 +55,7 @@
 ## Output:
 
 
-### Name:
+### Name:dhdjdn
 ### Register Number: 
 
 ## RESULT:
